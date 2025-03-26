@@ -9,6 +9,7 @@ A simple and accurate SCALE Compact Integer decoder implementation in Node.js â€
 - Decodes SCALE compact-encoded integers (all 4 modes: single-byte, two-byte, four-byte, big-integer).
 - Fully little-endian aware.
 - Helpful debug logs for educational purposes.
+- Interactive CLI tool for learners
 - Designed for manual testing and prototyping.
 
 ---

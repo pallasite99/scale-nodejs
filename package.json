@@ -1,12 +1,21 @@
 {
-  "name": "scale-nodejs",
+  "name": "scale-decode",
   "version": "1.0.0",
-  "main": "scale.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "A CLI tool to decode SCALE compact-encoded integers",
+  "bin": {
+    "scale-decode": "./bin/scale-decode.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": [
+    "substrate",
+    "polkadot",
+    "scale",
+    "cli",
+    "decoder"
+  ],
+  "author": "Salil Apte",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "inquirer": "^12.5.0"
+  }
 }

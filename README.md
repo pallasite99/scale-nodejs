@@ -55,9 +55,11 @@ Decoded 0xfc01 => 127
 | `11`      | N+5 bytes  | BigInt    | Big-integer mode   |
 ```
 
+## CLI support
+![Screenshot 2025-03-26 123921](https://github.com/user-attachments/assets/ceca66bb-30c0-40b7-953e-0b8bd29911d0)
+
 ## Coming Soon
 
 * `encodeCompact(number)` — SCALE encoder function
-* CLI tool for quick encode/decode
 * Web-based interactive demo
 

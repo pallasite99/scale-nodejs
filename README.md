@@ -23,7 +23,7 @@ git clone https://github.com/pallasite99/scale-nodejs.git
 cd scale-nodejs
 ```
 
-## Usage
+## Usage (basic example)
 
 ```bash
 node scale.js

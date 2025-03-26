@@ -55,7 +55,13 @@ Decoded 0xfc01 => 127
 | `11`      | N+5 bytes  | BigInt    | Big-integer mode   |
 ```
 
-## CLI support
+## Local CLI usage
+
+```bash
+node ./bin/scale-decode.js
+```
+
+## CLI support (Global npm link)
 ![Screenshot 2025-03-26 123921](https://github.com/user-attachments/assets/ceca66bb-30c0-40b7-953e-0b8bd29911d0)
 
 ## Coming Soon

@@ -68,8 +68,16 @@ node ./bin/scale-encode.js
 ![Screenshot 2025-03-26 123921](https://github.com/user-attachments/assets/ceca66bb-30c0-40b7-953e-0b8bd29911d0)
 ![Screenshot 2025-03-27 103502](https://github.com/user-attachments/assets/19743506-0e27-4e33-aa82-e5768f79ab9c)
 
+## Running local WebApp
 
-## Coming Soon
+1. Navigate to scale-web directory
+2. Run `npm run dev` command after installing all dependencies via `npm install` in `scale-web` directory
+3. Visit 'localhost:5173' to interact with `React + Vite` WebApp
 
-* Web-based interactive demo
+## Web UI
+
+![image](https://github.com/user-attachments/assets/db8a1bda-04de-4545-8c81-1a514e5f0969)
+![image](https://github.com/user-attachments/assets/d5fe7286-e95c-40a7-a9b6-645a828bb283)
+
+
 
